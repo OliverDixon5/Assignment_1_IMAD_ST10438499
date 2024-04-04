@@ -1,5 +1,5 @@
 package com.example.assignment1imad
-
+//These are the imports so that I can access the activity main components.
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button

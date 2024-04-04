@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    //These are the colors that are used in the history app.
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="brown">#FFF1CF9C</color>
+
 </resources>

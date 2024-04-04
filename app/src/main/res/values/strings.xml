@@ -1,8 +1,10 @@
 <resources>
+    //These are the string names that are allocated to the history app components.
     <string name="app_name">Assignment 1 IMAD</string>
     <string name="app_Header">History Generator</string>
     <string name="text_Hint">Enter Age</string>
     <string name="button_Name1">Generate History</string>
     <string name="Button_Name2">Clear</string>
     <string name="displayed_information"></string>
+
 </resources>
